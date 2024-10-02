@@ -43,15 +43,15 @@ export default function Contact() {
                             <p className='text-white/60'>Envie sua sugestão de melhoria para a cidade ou o que está te incomodando.</p>
                             {/* input */}
                             <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
-                                <Input type='firstname' placeholder='Seu nome' />
+                                <Input type='firstname' placeholder='Nome' />
                                 <Input type='lastname' placeholder='Sobrenome' />
                                 <Input type='email' placeholder='Email' />
                                 <Input type='phone' placeholder='Telefone' />
                             </div>
                             
                             {/* textarea */}
-                            <Textarea className='h-[200px]' placeholder='Type your message here.'/>
-                            <Button size='md' className='max-w-40'>Send message</Button>
+                            <Textarea className='h-[200px]' placeholder='Escreva sua mensagem aqui.'/>
+                            <Button size='md' className='max-w-40'>Enviar</Button>
                         </form>
                     </div>
                     {/* info */}

@@ -14,7 +14,7 @@ export default function Home() {
             <div className='text-center xl:text-left order-2 xl:order-none'>
               <span className='text-xl'>Candidato à Vereador do Guarujá</span>
               <h1 className='h1 mb-6'>Vote 28000<br /><span className='text-accent'>Edu da Robótica</span></h1>
-              <p className='max-w-[500px] mb-9 text-white/80'>Conheça um pouco da minha história.
+              <p className='max-w-[500px] mb-9 text-white/80'>Conheça minha história, minhas propostas como vereador e um pouco sobre mim. E me envie uma sugestão de como eu posso te ajudar!
               </p>
               <div className='flex flex-col xl:flex-row items-center gap-8'>
                 <Button 
