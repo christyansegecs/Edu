@@ -10,11 +10,11 @@ const links = [
         path: '/'
     },
     {
-        name: 'propostas',
+        name: 'sobre mim',
         path: '/services'
     },
     {
-        name: 'partido',
+        name: 'propostas',
         path: '/resume'
     },
     {
@@ -22,7 +22,7 @@ const links = [
         path: '/work'
     },
     {
-        name: 'contact',
+        name: 'meu partido',
         path: '/contact'
     },
 ]

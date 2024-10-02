@@ -7,20 +7,20 @@ import CountUp from 'react-countup'
 
 const stats = [
     {
-        num: 12,
-        text: 'Years of experience'
+        num: 10,
+        text: 'Propostas'
     },
     {
-        num: 26,
-        text: 'Projects completed'
+        num: 28,
+        text: 'Projetos realizados'
     },
     {
-        num: 8,
-        text: 'Technologies mastered'
+        num: 3,
+        text: 'Eventos Internacionais'
     },
     {
-        num: 500,
-        text: 'Code commits'
+        num: 1536,
+        text: 'Seguidores no Instagram'
     },
 ]
 
