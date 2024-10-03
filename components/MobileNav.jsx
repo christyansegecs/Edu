@@ -14,20 +14,16 @@ const links = [
         path: '/'
     },
     {
-        name: 'services',
-        path: '/services'
+        name: 'sobre mim',
+        path: '/about'
     },
     {
-        name: 'resume',
-        path: '/resume'
+        name: 'propostas',
+        path: '/propostas'
     },
     {
-        name: 'work',
-        path: '/work'
-    },
-    {
-        name: 'contact',
-        path: '/contact'
+        name: 'partido',
+        path: '/partido'
     },
 ]
 

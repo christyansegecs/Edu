@@ -46,6 +46,12 @@ export default function Home() {
           </div>
         </div>
         <Stats />
+        <div className="text-sm leading-relaxed text-gray-200 text-center h-10 mt-10 mb-10">
+        <p><a target="_blank" rel="noreferrer" className="underline hover:text-gray-100" href="https://rocketseat.com.br">
+              Edu da Robótica
+            </a></p>
+            CNPJ - 68.471.788/0001-04 CNPJ - 33.613.835/0001-76
+        </div>
       </section>
   )
 }
