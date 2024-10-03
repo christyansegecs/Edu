@@ -18,11 +18,17 @@ export default function Home() {
               </p>
               <div className='flex flex-col xl:flex-row items-center gap-8'>
                 <Button 
+                  href='/assets/edu.png'
                   variant='outline' 
                   size='lg' 
                   className='uppercase flex items-center gap-2'
                 >
-                  <span>Baixe o material para campanha</span>
+                  <a 
+                    href='/assets/edu.png' // Caminho da imagem
+                    download='Material_Campanha_Edu_da_Robotica.png' // Nome do arquivo baixado
+                  >
+                    <span>Baixe o material para campanha</span>
+                  </a>
                   <FiDownload className='text-xl' />
                 </Button>
                 <div className='mb-8 xl:mb-0'>

@@ -11,19 +11,15 @@ const links = [
     },
     {
         name: 'sobre mim',
-        path: '/services'
+        path: '/about'
     },
     {
         name: 'propostas',
-        path: '/resume'
+        path: '/propostas'
     },
     {
-        name: 'projetos',
-        path: '/work'
-    },
-    {
-        name: 'meu partido',
-        path: '/contact'
+        name: 'partido',
+        path: '/partido'
     },
 ]
 
